@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 妙法蓮華經
+#+DATE: 2015-08-30 19:47:14.944591
+#+PROPERTY: JUAN 0
