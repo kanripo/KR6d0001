@@ -9,7 +9,7 @@
 #+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0001_T_002-0010b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
-<pb:KR6d0001_T_002-0010b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+<pb:KR6d0001_T_001-0010b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 ¶
 《妙法蓮華經》卷第二¶
 ¶
